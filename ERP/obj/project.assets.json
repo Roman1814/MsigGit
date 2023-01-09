@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\ERP\\ERP.csproj",
+      "projectUniqueName": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\ERP.csproj",
       "projectName": "ERP",
-      "projectPath": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\ERP\\ERP.csproj",
+      "projectPath": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\ERP.csproj",
       "packagesPath": "C:\\Users\\romschrok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\ERP\\obj\\",
+      "outputPath": "C:\\Users\\romschrok\\source\\repos\\Roman1814\\MsigGit\\ERP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
