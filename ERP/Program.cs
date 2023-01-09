@@ -1,1 +1,1 @@
-YOGREL
+Console.WriteLine("Hello");
